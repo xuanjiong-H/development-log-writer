@@ -1,0 +1,4 @@
+interface:
+  display_name: "Development Log Writer"
+  short_description: "Turn development conversations into structured logs"
+  default_prompt: "Use $development-log-writer to turn this development conversation into a complete Markdown work log."
